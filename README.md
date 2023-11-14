@@ -1,4 +1,2 @@
----
-title-heading: false
----
+
 ## InternalHell
